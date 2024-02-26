@@ -6,6 +6,7 @@ main {
     forced-color-adjust: none;
     color: black;
     background-color: rgb(198, 239, 255);
+    line-height: 1.6;
 }
 
 .high-contrast {
@@ -27,16 +28,9 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0px 10px;
-    background-color: black;
-    color: white;
     font-size: 20px;
-
-}
-
-.type h4{
-    background-color: black;
     color: white;
-    padding: 10px 15px;
+    background-color: black;
 }
 
 .care ul {
